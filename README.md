@@ -1,1 +1,1 @@
-# TheLordOfTheRings
+# TheLordOfTheRingsProject
